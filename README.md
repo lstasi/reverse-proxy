@@ -3,7 +3,7 @@
   
 ## Requiremnts
 	
-*Dockers
-*Curl
-*jq (command-line JSON processor)
+* Dockers
+* Curl
+* jq (command-line JSON processor)
 	
